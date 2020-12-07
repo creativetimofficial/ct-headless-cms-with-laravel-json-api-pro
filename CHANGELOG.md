@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to `Headless CMS Laravel JSON API`  will be documented in this file.
+All notable changes to `Headless CMS with Laravel JSON API`  will be documented in this file.
 
 ## Version 1.0.0
 
