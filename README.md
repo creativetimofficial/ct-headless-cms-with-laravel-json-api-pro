@@ -1,4 +1,4 @@
-# [Laravel Headless CMS with JSON:API](https://headless-cms-with-laravel-json-api.creative-tim.com/?ref=hclja-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Headless%20CMS%20with%20Laravel%20JSON%3AAPI%E2%9D%A4%EF%B8%8F%0Ahttps%3A//headless-cms-with-laravel-json-api.creative-tim.com/%20%23%laravel%20%23%json%3Aapi%20%23headless%20%23cms%20%23pro%20via%20%40CreativeTim)
+# [Laravel Headless CMS with JSON:API](https://headless-cms-with-laravel-json-api.creative-tim.com/?ref=hclja-readme)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-headless-cms-with-laravel-json-api.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-headless-cms-with-laravel-json-api/ct-headless-cms-with-laravel-json-api.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -82,7 +82,7 @@ Laravel Headless CMS with JSON:API provides basic CRUD endpoints for the most co
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/json-api.png" height="75" />](#)
 
 ## Documentation
-The documentation for the Vue Material Dashboard Laravel Pro is hosted at our [website](https://vue-material-dashboard-laravel-pro.creative-tim.com/documentation?ref=hclja-readme).
+The documentation for the Headless CMS with Laravel JSON:API is hosted at our [here](https://explore.postman.com/api/6357/laravel-jsonapi).
 
 ## Resources
 - Demo: <https://vue-material-dashboard-laravel-pro.creative-tim.com/?ref=hclja-readme>
