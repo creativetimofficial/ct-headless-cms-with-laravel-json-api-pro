@@ -70,7 +70,7 @@ Laravel Headless CMS with JSON:API provides basic CRUD endpoints for the most co
 
 * [Versions](#versions)
 * [Documentation](#documentation)
-* [Dashboards built with Headless CMS with Laravel JSON API](#dashboards-built)
+* [Dashboards built with Laravel Headless CMS with JSON:API](#dashboards-built-with-laravel-headless-cms-with-json-api)
 * [Resources](#resources)
 * [Reporting Issues](#reporting-issues)
 * [Licensing](#licensing)
@@ -91,9 +91,8 @@ The documentation for the Headless CMS with Laravel JSON:API is hosted at our [h
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues)
-- **Dashboards:**
 
-## Dashboards built with  CMS with Laravel Headless CMS with JSON:API
+## Dashboards built with Laravel Headless CMS with JSON:API
 | Vue Argon Dashboard Laravel | Nuxt Material Dashboard Laravel |
 | --- | --- |
 | [![Vue Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/353/thumb/opt_adp_vue_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro-laravel?ref=hclja-readme) | [![Nuxt Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/351/thumb/opt_adp_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel?ref=hclja-readme) |
