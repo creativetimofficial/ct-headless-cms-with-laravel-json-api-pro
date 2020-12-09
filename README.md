@@ -1,4 +1,4 @@
-# [Laravel Headless CMS with JSON:API](https://headless-cms-with-laravel-json-api.creative-tim.com/?ref=hclja-readme)
+# [Laravel Headless CMS with JSON:API PRO](https://headless-cms-with-laravel-json-api.creative-tim.com/?ref=hclja-readme)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-headless-cms-with-laravel-json-api.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-headless-cms-with-laravel-json-api/ct-headless-cms-with-laravel-json-api.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -20,8 +20,6 @@ JSON:API is a specification for how a client should request that resources be fe
 ## Prerequisites
 
 The Laravel JSON:API backend project requires a working Apache/Nginx local environment with PHP, Composer and MySQL.
-
-The Laravel JSON:API frontend project requires a working local environment with NodeJS version 8.9 or above (8.11.0+ recommended), npm, VueCLI.
 
 If you don't already have a local development environment, use one of the following links:
 
@@ -55,7 +53,7 @@ A **member type** user can log in, update his profile and view a list of added i
 A **creator type** user can log in, update his profile and perform actions on categories, tags and items.
 A **admin type** user can log in, update his profile and perform actions on categories, tags, items, roles and users.
 
-Laravel Headless CMS with JSON:API provides basic CRUD endpoints for the most commonly used functionalities in any CMS. 
+Laravel Headless CMS with JSON:API PRO provides basic CRUD endpoints for the most commonly used functionalities in any CMS. 
 
 * Authentication API: login, logout, register, send reset password email & reset password
 * Profile API: get profile, update profile
@@ -82,7 +80,7 @@ Laravel Headless CMS with JSON:API provides basic CRUD endpoints for the most co
 [<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/json-api.png" height="75" />](#)
 
 ## Documentation
-The documentation for the Headless CMS with Laravel JSON:API is hosted at our [here](https://explore.postman.com/api/6357/laravel-jsonapi).
+The documentation for the Headless CMS with Laravel JSON:API PRO is hosted at our [here](https://explore.postman.com/api/6357/laravel-jsonapi).
 
 ## Resources
 - Demo: <https://vue-material-dashboard-laravel-pro.creative-tim.com/?ref=hclja-readme>
@@ -92,7 +90,7 @@ The documentation for the Headless CMS with Laravel JSON:API is hosted at our [h
 - Support: <https://www.creative-tim.com/contact-us>
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues)
 
-## Dashboards built with Laravel Headless CMS with JSON:API
+## Dashboards built with Laravel Headless CMS with JSON:API PRO
 | Vue Argon Dashboard Laravel | Nuxt Material Dashboard Laravel |
 | --- | --- |
 | [![Vue Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/353/thumb/opt_adp_vue_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro-laravel?ref=hclja-readme) | [![Nuxt Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/351/thumb/opt_adp_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel?ref=hclja-readme) |
