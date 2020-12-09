@@ -1,4 +1,4 @@
-# [Laravel Headless CMS with JSON:API PRO](https://headless-cms-with-laravel-json-api.creative-tim.com/?ref=hclja-readme)
+# [Headless CMS with Laravel JSON:API PRO](https://headless-cms-with-laravel-json-api.creative-tim.com/?ref=hclja-readme)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-headless-cms-with-laravel-json-api.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-headless-cms-with-laravel-json-api/ct-headless-cms-with-laravel-json-api.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -53,7 +53,7 @@ A **member type** user can log in, update his profile and view a list of added i
 A **creator type** user can log in, update his profile and perform actions on categories, tags and items.
 A **admin type** user can log in, update his profile and perform actions on categories, tags, items, roles and users.
 
-Laravel Headless CMS with JSON:API PRO provides basic CRUD endpoints for the most commonly used functionalities in any CMS. 
+Headless CMS with Laravel JSON:API PRO provides basic CRUD endpoints for the most commonly used functionalities in any CMS. 
 
 * Authentication API: login, logout, register, send reset password email & reset password
 * Profile API: get profile, update profile
@@ -68,7 +68,7 @@ Laravel Headless CMS with JSON:API PRO provides basic CRUD endpoints for the mos
 
 * [Versions](#versions)
 * [Documentation](#documentation)
-* [Dashboards built with Laravel Headless CMS with JSON:API](#dashboards-built-with-laravel-headless-cms-with-json-api)
+* [Dashboards built with Headless CMS with Laravel JSON:API PRO](#dashboards-built-with-headless-cms-with-laravel-json-api-pro)
 * [Resources](#resources)
 * [Reporting Issues](#reporting-issues)
 * [Licensing](#licensing)
@@ -83,14 +83,13 @@ Laravel Headless CMS with JSON:API PRO provides basic CRUD endpoints for the mos
 The documentation for the Headless CMS with Laravel JSON:API PRO is hosted at our [here](https://explore.postman.com/api/6357/laravel-jsonapi).
 
 ## Resources
-- Demo: <https://vue-material-dashboard-laravel-pro.creative-tim.com/?ref=hclja-readme>
-- Download Page: <https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=hclja-readme>
-- Documentation: <https://vue-material-dashboard-laravel-pro.creative-tim.com/documentation?ref=hclja-readme>
+- Download Page: <https://www.creative-tim.com/product/headless-cms-with-laravel-json-api-pro>
+- Documentation: <https://explore.postman.com/api/6357/laravel-jsonapi>
 - License Agreement: <https://www.creative-tim.com/license>
 - Support: <https://www.creative-tim.com/contact-us>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api/issues)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api-pro/issues)
 
-## Dashboards built with Laravel Headless CMS with JSON:API PRO
+## Dashboards built with Headless CMS with Laravel JSON:API PRO
 | Vue Argon Dashboard Laravel | Nuxt Material Dashboard Laravel |
 | --- | --- |
 | [![Vue Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/353/thumb/opt_adp_vue_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro-laravel?ref=hclja-readme) | [![Nuxt Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/351/thumb/opt_adp_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel?ref=hclja-readme) |
@@ -105,9 +104,9 @@ Please see the [changelog](CHANGELOG.md) for more information on what has change
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Vue Material Dashboard Laravel. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Headless CMS with Laravel JSON:API PRO. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vue Material Dashboard Laravel. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=hclja-readme).
+1. Make sure that you are using the latest version of the Headless CMS with Laravel JSON:API PRO. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=hclja-readme).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
