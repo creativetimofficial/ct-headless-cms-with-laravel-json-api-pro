@@ -90,13 +90,23 @@ The documentation for the Headless CMS with Laravel JSON:API PRO is hosted at ou
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-headless-cms-with-laravel-json-api-pro/issues)
 
 ## Dashboards built with Headless CMS with Laravel JSON:API PRO
-| Vue Argon Dashboard Laravel | Nuxt Material Dashboard Laravel |
+| Vue Argon Dashboard Laravel | Vue Material Dashboard Laravel |
 | --- | --- |
-| [![Vue Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/353/thumb/opt_adp_vue_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro-laravel?ref=hclja-readme) | [![Nuxt Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/351/thumb/opt_adp_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel?ref=hclja-readme) |
+| [![Vue Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/353/thumb/opt_adp_vue_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro-laravel?ref=hclja-readme) | [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=hclja-readme) |
 
-| Vue Material Dashboard Laravel |
+| Vue Black Dashboard Laravel | Vue White Dashboard Laravel |
+| --- | --- |
+| [![Vue Black Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/403/original/opt_bdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-black-dashboard-pro-laravel?ref=vbdpl-readme) | [![Vue White Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/409/original/opt_wdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-white-dashboard-pro-laravel?ref=vwdpl-readme) |
+
+| Vue Paper Dashboard Laravel | Vue Now UI Dashboard Laravel |
+| --- | --- |
+| [![Vue Paper Dashboard Pro Laravel ](https://s3.amazonaws.com/creativetim_bucket/products/405/original/opt_pdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-paper-dashboard-pro-laravel?ref=vpdpl-readme) | [![Vue Now UI Dashboard Pro Laravel ](https://s3.amazonaws.com/creativetim_bucket/products/407/thumb/opt_nudp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-now-ui-dashboard-pro-laravel?ref=vnudpl-readme) |
+
+| Nuxt Argon Dashboard Laravel |
 | --- |
-| [![Vue Material Dashboard Laravel Pro](https://s3.amazonaws.com/creativetim_bucket/products/332/thumb/opt_mdp_vuelaravel_thumbnail.jpg)](https://www.creative-tim.com/product/vue-material-dashboard-laravel-pro?ref=hclja-readme) |
+| [![Nuxt Argon Dashboard Pro Laravel](https://s3.amazonaws.com/creativetim_bucket/products/351/thumb/opt_adp_nuxt_laravel_thumbnail.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro-laravel?ref=hclja-readme) |
+
+
 
 ## Change log
 
