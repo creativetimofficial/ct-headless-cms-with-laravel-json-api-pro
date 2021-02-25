@@ -19,16 +19,17 @@ JSON:API is a specification for how a client should request that resources be fe
 
 ## Prerequisites
 
-The Laravel JSON:API backend project requires a working Apache/Nginx local environment with PHP, Composer and MySQL.
+The Laravel JSON:API backend project requires a proper multi-threaded web server such as Apache/Nginx environment with PHP, Composer and MySQL.
+**Do not use `php artisan serve` as it will result in stalled requests due to the single-threaded nature of the built-in PHP web server.** 
+If you don't already have a local development environment, use one of the following links. 
+We strongly recommend using [Laradock](https://laradock.io/) or [Laragon](https://laragon.org/download/) if possible.
 
-If you don't already have a local development environment, use one of the following links:
-
+Other options:
 - Windows: [How to install WAMP on Windows](https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows)
 - Linux: [How to install LAMP on Linux](https://howtoubuntu.org/how-to-install-lamp-on-ubuntu)
 - Mac: [How to install MAMP on MAC](https://wpshout.com/quick-guides/how-to-install-mamp-on-your-mac/)
-- Install Composer: [https://getcomposer.org/doc/00-intro.md](https://getcomposer.org/doc/00-intro.md)
 
-Install Composer: https://getcomposer.org/doc/00-intro.md
+You will also need to install Composer 2: [https://getcomposer.org/doc/00-intro.md](https://getcomposer.org/doc/00-intro.md)
 
 ## Laravel JSON:API Project Installation
 
