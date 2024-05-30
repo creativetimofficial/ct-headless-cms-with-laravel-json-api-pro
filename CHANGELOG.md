@@ -13,3 +13,7 @@ All notable changes to `Headless CMS with Laravel JSON API PRO`  will be documen
 - Tags API: list, create, update and delete tags
 - Categories API: list, create, update and delete categories
 - Items API: list, create, update, delete items & upload item image
+
+## Version 2.1.0
+
+- Update to Laravel 11.x
